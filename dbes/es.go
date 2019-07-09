@@ -6,7 +6,7 @@ import (
 
 	"github.com/juju/errors"
 
-	"github.com/olivere/elastic"
+	"gopkg.in/olivere/elastic.v6"
 )
 
 type EsAddr struct {
